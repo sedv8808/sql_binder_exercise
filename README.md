@@ -1,1 +1,3 @@
-# sql_binder_exercise
+# SQL Binder
+
+SQL Exercises for LHL students.
